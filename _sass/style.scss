@@ -1,0 +1,24 @@
+#personal_photo{
+    float: right; 
+    width: 200px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    text-align: center;
+}
+#personal_photo img{
+    width: 100%;
+    max-width: 324px;
+}
+#bio_text{
+    width: auto;
+}
+@media only screen and (max-width: 425px){
+    #personal_photo{
+        float: left;
+        width: 100%;
+        padding-left: 0;
+    }
+    #bio_text{
+        width: 100%;
+    }
+}
