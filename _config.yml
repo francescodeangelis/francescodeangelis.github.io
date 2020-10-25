@@ -36,6 +36,9 @@ plugins:
 header_pages:
   - research.md
   - teaching.md
+
+google_analytics: G-X6JHMSWPGY
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
