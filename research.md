@@ -3,7 +3,7 @@ layout: static_page
 title: Research
 permalink: /research/
 ---
-I am mainly interested in *Calculus of Variations* and *Geometric Measure Theory*.
+I am mainly interested in *Calculus of Variations*, *Geometric Measure Theory* and *Probability Theory*.
 
 ## Publications
 * Francesco Deangelis. Boundary regularity for the Mumford-Shah functional with Dirichlet boundary conditions, 2024. [arXiv:2404.07162](https://arxiv.org/abs/2404.07162).

@@ -4,7 +4,7 @@
 
 layout: short_bio
 ---
-I am a Postdoctoral Researcher in Mathematics at the [University of Münster](https://www.uni-muenster.de/MathematicsMuenster/).
+I am a Postdoctoral Researcher in Mathematics at the [University of Münster](https://www.uni-muenster.de/MathematicsMuenster/) in the group of Prof. [Caterina Zeppieri](https://www.uni-muenster.de/AMM/zeppieri/team/caterina_zeppieri.shtml).
 
 I obtained the PhD in *Mathematics in Natural, Social and Life Sciences* at the [Gran Sasso Science Institute](https://www.gssi.it) under the supervision of Prof. [Camillo De Lellis](https://www.math.ias.edu/delellis/) (IAS, Princeton).
 
