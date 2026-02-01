@@ -10,6 +10,7 @@ I am mainly interested in *Calculus of Variations*, *Geometric Measure Theory* a
 * Roberto Benzi, Michiel Bertsch, and Francesco Deangelis. A free boundary problem for binary fluids. [Interfaces Free Bound.](https://ems.press/journals/ifb/articles/3324283), 23(4):485–506, 2021
 
 ## Talks
+* 30/01/2026 - *Stochastic homogenization of fractional obstacle problems*, Analysis Seminar, University of Florence, Italy
 * 03/12/2025 – *Boundary regularity for the Mumford–Shah functional with Dirichlet boundary conditions*, Analysis Seminar, University of Parma, Italy
 * 26/11/2025 – *Stochastic homogenization of fractional obstacle problems*, CASA Colloquium, Eindhoven University of Technology, Netherlands
 * 29/10/2025 – *An introduction to stochastic homogenization*, University of Münster, Germany
