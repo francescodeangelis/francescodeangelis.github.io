@@ -12,6 +12,7 @@ homogenization of fractional obstacle problems, 2026. [arXiv:2604.09896](https:/
 * Roberto Benzi, Michiel Bertsch, and Francesco Deangelis. A free boundary problem for binary fluids. [Interfaces Free Bound.](https://ems.press/journals/ifb/articles/3324283), 23(4):485–506, 2021
 
 ## Talks
+* 01/07/2026 - *Stochastic homogenization of fractional obstacle problems*, Oberseminar Stochastik, University of Münster, Germany
 * 11/02/2026 - *Boundary regularity for the Mumford--Shah functional with Dirichlet boundary conditions*, XXXV Convegno Nazionale di Calcolo delle Variazioni, Riccione, Italy
 * 30/01/2026 - *Stochastic homogenization of fractional obstacle problems*, Analysis Seminar, University of Florence, Italy
 * 03/12/2025 – *Boundary regularity for the Mumford–Shah functional with Dirichlet boundary conditions*, Analysis Seminar, University of Parma, Italy
