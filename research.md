@@ -6,7 +6,7 @@ permalink: /research/
 I am mainly interested in *Calculus of Variations*, *Geometric Measure Theory* and *Probability Theory*.
 
 ## Publications
-* Francesco Deangelis. Solution of the Mumford--Shah conjecture [PDF]({{ '/assets/mumford_shah.pdf' | relative_url }}) [cvgmt](https://cvgmt.sns.it/media/doc/paper/8002/mumford_shah.pdf) 
+* Francesco Deangelis. Solution of the Mumford--Shah conjecture [arXiv:2609.26732](https://arxiv.org/abs/2609.26732)
 * Francesco Deangelis, Matteo Focardi, and Caterina Ida Zeppieri. Stochastic
 homogenization of fractional obstacle problems, 2026. [arXiv:2604.09896](https://arxiv.org/abs/2604.09896)
 * Francesco Deangelis. Boundary regularity for the Mumford-Shah functional with Dirichlet boundary conditions, 2024. [arXiv:2404.07162](https://arxiv.org/abs/2404.07162).
