@@ -6,6 +6,7 @@ permalink: /research/
 I am mainly interested in *Calculus of Variations*, *Geometric Measure Theory* and *Probability Theory*.
 
 ## Publications
+* Francesco Deangelis, Camillo De Lellis, and Matteo Focardi. A remark on the global minimality of the cracktip, 2026. [arXiv:2610.33900](https://arxiv.org/abs/2610.33900).
 * Francesco Deangelis. Classification of boundary blow-ups for the Mumford-Shah functional with Dirichlet boundary conditions, 2026. [arXiv:2610.23513](https://arxiv.org/abs/2610.23513).
 * Francesco Deangelis. Solution of the Mumford--Shah conjecture, 2026. [arXiv:2609.26732](https://arxiv.org/abs/2609.26732)
 * Francesco Deangelis, Matteo Focardi, and Caterina Ida Zeppieri. Stochastic
